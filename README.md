@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anshii360/Dsa/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-pass-the-pillow](https://github.com/anshii360/Dsa/tree/master/2582-pass-the-pillow) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anshii360/Dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
