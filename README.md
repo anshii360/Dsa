@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [2582-pass-the-pillow](https://github.com/anshii360/Dsa/tree/master/2582-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2582-pass-the-pillow](https://github.com/anshii360/Dsa/tree/master/2582-pass-the-pillow) |
 <!---LeetCode Topics End-->
