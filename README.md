@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anshii360/Dsa/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/anshii360/Dsa/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/anshii360/Dsa/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/anshii360/Dsa/tree/master/0134-gas-station) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshii360/Dsa/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/anshii360/Dsa/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
