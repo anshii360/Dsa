@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anshii360/Dsa/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/anshii360/Dsa/tree/master/0134-gas-station) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/anshii360/Dsa/tree/master/0047-permutations-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
