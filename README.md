@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anshii360/Dsa/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/anshii360/Dsa/tree/master/0134-gas-station) |
+| [0300-longest-increasing-subsequence](https://github.com/anshii360/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/anshii360/Dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anshii360/Dsa/tree/master/0646-maximum-length-of-pair-chain) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/anshii360/Dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshii360/Dsa/tree/master/0055-jump-game) |
+| [0300-longest-increasing-subsequence](https://github.com/anshii360/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anshii360/Dsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anshii360/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
