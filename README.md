@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshii360/Dsa/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/anshii360/Dsa/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/anshii360/Dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anshii360/Dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anshii360/Dsa/tree/master/0047-permutations-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshii360/Dsa/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/anshii360/Dsa/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Math
 |  |
