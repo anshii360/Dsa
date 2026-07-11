@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anshii360/Dsa/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/anshii360/Dsa/tree/master/0134-gas-station) |
+| [0287-find-the-duplicate-number](https://github.com/anshii360/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshii360/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/anshii360/Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshii360/Dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/anshii360/Dsa/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anshii360/Dsa/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anshii360/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshii360/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/anshii360/Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/anshii360/Dsa/tree/master/0713-subarray-product-less-than-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anshii360/Dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
