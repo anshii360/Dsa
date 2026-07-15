@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2582-pass-the-pillow](https://github.com/anshii360/Dsa/tree/master/2582-pass-the-pillow) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/anshii360/Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anshii360/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshii360/Dsa/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anshii360/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
