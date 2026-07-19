@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/anshii360/Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/anshii360/Dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anshii360/Dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshii360/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshii360/Dsa/tree/master/0020-valid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshii360/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshii360/Dsa/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshii360/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshii360/Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshii360/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshii360/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
