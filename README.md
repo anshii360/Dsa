@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshii360/Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anshii360/Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshii360/Dsa/tree/master/0020-valid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
+| [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshii360/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anshii360/Dsa/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/anshii360/Dsa/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/anshii360/Dsa/tree/master/0164-maximum-gap) |
+| [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshii360/Dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/anshii360/Dsa/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/anshii360/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
+| [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [2401-longest-nice-subarray](https://github.com/anshii360/Dsa/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anshii360/Dsa/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anshii360/Dsa/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
