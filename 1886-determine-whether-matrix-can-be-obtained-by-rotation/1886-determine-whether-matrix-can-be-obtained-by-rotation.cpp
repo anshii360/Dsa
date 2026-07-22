@@ -18,8 +18,7 @@ public:
                 break;
             }
         }
-        if(!same)
-            break;
+        
         }
         if(same)
             return true;
