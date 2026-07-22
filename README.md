@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/anshii360/Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anshii360/Dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/anshii360/Dsa/tree/master/0713-subarray-product-less-than-k) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshii360/Dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshii360/Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2295-replace-elements-in-an-array](https://github.com/anshii360/Dsa/tree/master/2295-replace-elements-in-an-array) |
@@ -184,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshii360/Dsa/tree/master/0048-rotate-image) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshii360/Dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
