@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anshii360/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
+| [1009-complement-of-base-10-integer](https://github.com/anshii360/Dsa/tree/master/1009-complement-of-base-10-integer) |
 | [2401-longest-nice-subarray](https://github.com/anshii360/Dsa/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anshii360/Dsa/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anshii360/Dsa/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
