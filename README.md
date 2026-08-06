@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2582-pass-the-pillow](https://github.com/anshii360/Dsa/tree/master/2582-pass-the-pillow) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/anshii360/Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshii360/Dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anshii360/Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshii360/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/anshii360/Dsa/tree/master/0203-remove-linked-list-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshii360/Dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
