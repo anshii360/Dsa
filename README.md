@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshii360/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshii360/Dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshii360/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/anshii360/Dsa/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/anshii360/Dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshii360/Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/anshii360/Dsa/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/anshii360/Dsa/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anshii360/Dsa/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anshii360/Dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
