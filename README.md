@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshii360/Dsa/tree/master/0048-rotate-image) |
+| [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshii360/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshii360/Dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshii360/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -275,14 +276,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/anshii360/Dsa/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/anshii360/Dsa/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/anshii360/Dsa/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -312,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anshii360/Dsa/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
