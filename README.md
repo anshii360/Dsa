@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshii360/Dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshii360/Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/anshii360/Dsa/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anshii360/Dsa/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/anshii360/Dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anshii360/Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anshii360/Dsa/tree/master/0048-rotate-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshii360/Dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/anshii360/Dsa/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Linked List
 |  |
 | ------- |
