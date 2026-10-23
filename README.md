@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshii360/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshii360/Dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshii360/Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anshii360/Dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshii360/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2295-replace-elements-in-an-array](https://github.com/anshii360/Dsa/tree/master/2295-replace-elements-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anshii360/Dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshii360/Dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshii360/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anshii360/Dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshii360/Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anshii360/Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshii360/Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshii360/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anshii360/Dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2401-longest-nice-subarray](https://github.com/anshii360/Dsa/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshii360/Dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
