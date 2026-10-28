@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/anshii360/Dsa/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshii360/Dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anshii360/Dsa/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/anshii360/Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anshii360/Dsa/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/anshii360/Dsa/tree/master/0164-maximum-gap) |
@@ -366,4 +367,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
