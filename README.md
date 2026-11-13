@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/anshii360/Dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anshii360/Dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anshii360/Dsa/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anshii360/Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anshii360/Dsa/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/anshii360/Dsa/tree/master/0164-maximum-gap) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/anshii360/Dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshii360/Dsa/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anshii360/Dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anshii360/Dsa/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshii360/Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anshii360/Dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1510-stone-game-iv](https://github.com/anshii360/Dsa/tree/master/1510-stone-game-iv) |
