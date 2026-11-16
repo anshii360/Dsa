@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/anshii360/Dsa/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshii360/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anshii360/Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/anshii360/Dsa/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anshii360/Dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anshii360/Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/anshii360/Dsa/tree/master/2295-replace-elements-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/anshii360/Dsa/tree/master/2582-pass-the-pillow) |
 ## Stack
