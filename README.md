@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2401-longest-nice-subarray](https://github.com/anshii360/Dsa/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anshii360/Dsa/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anshii360/Dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshii360/Dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshii360/Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshii360/Dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshii360/Dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshii360/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anshii360/Dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/anshii360/Dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshii360/Dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshii360/Dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anshii360/Dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshii360/Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anshii360/Dsa/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
