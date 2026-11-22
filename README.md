@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/anshii360/Dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anshii360/Dsa/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anshii360/Dsa/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/anshii360/Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/anshii360/Dsa/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/anshii360/Dsa/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anshii360/Dsa/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/anshii360/Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshii360/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshii360/Dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
