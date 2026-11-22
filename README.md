@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/anshii360/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/anshii360/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshii360/Dsa/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/anshii360/Dsa/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/anshii360/Dsa/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/anshii360/Dsa/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/anshii360/Dsa/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/anshii360/Dsa/tree/master/0771-jewels-and-stones) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/anshii360/Dsa/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
