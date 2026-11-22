@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/anshii360/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshii360/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/anshii360/Dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anshii360/Dsa/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/anshii360/Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anshii360/Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/anshii360/Dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anshii360/Dsa/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/anshii360/Dsa/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/anshii360/Dsa/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/anshii360/Dsa/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/anshii360/Dsa/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshii360/Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
