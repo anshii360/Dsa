@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/anshii360/Dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anshii360/Dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anshii360/Dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anshii360/Dsa/tree/master/0067-add-binary) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/anshii360/Dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anshii360/Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshii360/Dsa/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/anshii360/Dsa/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/anshii360/Dsa/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshii360/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshii360/Dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshii360/Dsa/tree/master/0067-add-binary) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anshii360/Dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshii360/Dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/anshii360/Dsa/tree/master/2295-replace-elements-in-an-array) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshii360/Dsa/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/anshii360/Dsa/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/anshii360/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
