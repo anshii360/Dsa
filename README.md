@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/anshii360/Dsa/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/anshii360/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshii360/Dsa/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/anshii360/Dsa/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/anshii360/Dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/anshii360/Dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anshii360/Dsa/tree/master/0383-ransom-note) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/anshii360/Dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/anshii360/Dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anshii360/Dsa/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/anshii360/Dsa/tree/master/0257-binary-tree-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/anshii360/Dsa/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshii360/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/anshii360/Dsa/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
@@ -432,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshii360/Dsa/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anshii360/Dsa/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
